@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Ofplarsen
+- 👀 I’m interested in coding and movies
+- 🌱 I’m currently learning Kotlin
+- 📫 How to reach me ofplarsen@gmail.com
