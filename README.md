@@ -1,3 +1,1 @@
-- #backendBoys
-- How to reach me ofplarsen@gmail.com
-![](https://komarev.com/ghpvc/?username=ofplarsen)
+How to reach me ofplarsen@gmail.com
